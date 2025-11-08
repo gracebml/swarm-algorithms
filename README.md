@@ -1,4 +1,4 @@
-# 🚀 AI Fundamental Lab 1 - Optimization Algorithms
+# AI Fundamental Lab 1 - Optimization Algorithms
 
 > **Comprehensive comparison and analysis of swarm intelligence and classical optimization algorithms on continuous and discrete problems**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 - [Overview](#-overview)
 - [Features](#-features)
 - [Quick Start](#-quick-start)
@@ -21,7 +21,7 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 This project implements and compares **8 optimization algorithms** across **4 benchmark problems** (3 continuous + 1 discrete), with comprehensive performance analysis and visualization capabilities.
 
@@ -37,9 +37,9 @@ This project implements and compares **8 optimization algorithms** across **4 be
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔬 Optimization Algorithms
+### Optimization Algorithms
 
 #### Swarm Intelligence (Nature-Inspired)
 - **PSO** (Particle Swarm Optimization) - Continuous
@@ -53,7 +53,7 @@ This project implements and compares **8 optimization algorithms** across **4 be
 - **SA** (Simulated Annealing) - Continuous
 - **A*** (A-star Search) - Discrete
 
-### 📊 Analysis Capabilities
+### Analysis Capabilities
 
 #### Performance Metrics
 - Best/Mean/Std Fitness
@@ -72,7 +72,7 @@ This project implements and compares **8 optimization algorithms** across **4 be
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Installation
 
@@ -148,7 +148,7 @@ Saved: results/discrete/convergence/tsp_aco_convergence.csv
 
 ---
 
-## 🧮 Algorithms
+## Algorithms
 
 ### Continuous Optimization
 
@@ -319,11 +319,6 @@ plot_convergence(
 
 ## 📚 Documentation
 
-### Detailed Guides
-- 📖 [Installation Guide](INSTALLATION.md) - Setup and dependencies
-- 🧪 [Test Guide](COMPREHENSIVE_TEST_GUIDE.md) - Testing procedures
-- 📊 [Sensitivity Output](SENSITIVITY_OUTPUT_STRUCTURE.md) - Understanding results
-
 ### Configuration
 - All algorithms can be configured via YAML files in `configs/`
 - Fallback to hardcoded defaults if YAML missing
@@ -345,7 +340,7 @@ plot_convergence(
 
 ---
 
-## 📊 Results
+## Results
 
 ### Performance Metrics
 
@@ -391,26 +386,11 @@ Over 50 types of visualizations generated automatically:
 | Landscape Viz | 30s | 3 PNG |
 | ACO TSP-10 | 2min | 1 CSV |
 | PSO Sensitivity | 5-10min | 27 CSV + 27 PNG |
-| Full Performance | 20-40min | 15 CSV + 3 JSON |
+| Full Performance | 10-20min | 15 CSV + 3 JSON |
 | All Visualizations | 2min | 50+ PNG |
 | ACO Sensitivity | 10-15min | 8 files |
-| **Complete Suite** | **~2-3 hours** | **200+ files** |
+| **Complete Suite** | **~20 minutes** | **200+ files** |
 
----
-
-## 🎨 Example Outputs
-
-### Convergence Curve
-```
-Best Fitness
-    ↑
-100 ┤╮
- 80 ┤ ╰╮        PSO
- 60 ┤   ╰╮      FA
- 40 ┤     ╰╮    CS
- 20 ┤       ╰╮  ABC
-  0 ┤         ╰─GA
-    └─────────────→ Iterations
 ```
 
 ### Performance Comparison
@@ -427,61 +407,14 @@ SA        | 0.0002345    | 0.789s   | 0.72        | 0.78
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
-
-#### "No module named 'src'"
-**Solution:** Always run from project root
-```bash
-cd D:\us\ai_fundamental\code\lab1
-python main.py
-```
-
 #### "No results found"
 **Solution:** Run performance computation first
 ```bash
 python main.py > 1 > 2  # Continuous > Performance Computation
 ```
-
-#### A* too slow
-**Solution:** Use smaller TSP instances or increase time limit
-
-#### Scientific notation in output
-**Status:** ✅ FIXED (now uses decimal notation)
-
-See [INSTALLATION.md](INSTALLATION.md) for more troubleshooting.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Areas for improvement:
-
-### Algorithms
-- [ ] Add DE (Differential Evolution)
-- [ ] Add WOA (Whale Optimization Algorithm)
-- [ ] Add GWO (Grey Wolf Optimizer)
-- [ ] Add more TSP heuristics (2-opt, 3-opt)
-
-### Problems
-- [ ] Add more continuous functions (Rosenbrock, Griewank)
-- [ ] Add constraint handling
-- [ ] Add multi-objective optimization
-- [ ] Add more discrete problems (Knapsack, Scheduling)
-
-### Features
-- [ ] Parallel execution for speedup
-- [ ] Real-time visualization during optimization
-- [ ] Interactive parameter tuning
-- [ ] Export to LaTeX/PDF reports
-- [ ] Web interface
-
-### Code Quality
-- [ ] Add unit tests (pytest)
-- [ ] Add type hints everywhere
-- [ ] Improve documentation
-- [ ] Add logging system
 
 ---
 
@@ -493,41 +426,13 @@ MIT License - see LICENSE file for details
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Bang My Linh - 23122009
+- Lai Nguyen Hong Thanh - 23122018
+- Phan Huynh Chau Thinh - 23122019
+- Nguyen Trong Hoa - 23122029
 
 ---
 
-## 🙏 Acknowledgments
+*--AI Fundamentals Lab 1--*
 
-- Inspired by classical optimization literature
-- Benchmark functions from standard test suites
-- Community contributions and feedback
-
----
-
-## 📞 Contact
-
-- Project: [GitHub Repository](https://github.com/yourusername/ai_fundamental)
-- Email: your.email@example.com
-- Issues: [GitHub Issues](https://github.com/yourusername/ai_fundamental/issues)
-
----
-
-## 📈 Changelog
-
-### Version 1.0 (2025-11-08)
-- ✅ Initial release
-- ✅ 8 algorithms implemented
-- ✅ 4 benchmark problems
-- ✅ Full performance analysis
-- ✅ Sensitivity analysis
-- ✅ 50+ visualization types
-- ✅ YAML configuration system
-- ✅ Interactive menu interface
-
----
-
-**Built with ❤️ for AI Fundamentals Lab 1**
-
-*"Optimizing the optimization" - Because better algorithms lead to better solutions*
 
