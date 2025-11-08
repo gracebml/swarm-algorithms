@@ -26,14 +26,14 @@
 This project implements and compares **8 optimization algorithms** across **4 benchmark problems** (3 continuous + 1 discrete), with comprehensive performance analysis and visualization capabilities.
 
 ### Key Highlights
-- ✅ **6 Continuous Algorithms:** PSO, FA, CS, ABC, GA, SA
-- ✅ **2 Discrete Algorithms:** ACO (MMAS), A*
-- ✅ **4 Benchmark Problems:** Sphere, Ackley, Rastrigin (continuous), TSP (discrete)
-- ✅ **Automated Performance Analysis:** 30 runs per configuration
-- ✅ **Sensitivity Analysis:** Parameter tuning for swarm algorithms
-- ✅ **Rich Visualizations:** 50+ types of charts and plots
-- ✅ **YAML Configuration:** Flexible parameter management
-- ✅ **Modular Architecture:** Easy to extend with new algorithms/problems
+- **6 Continuous Algorithms:** PSO, FA, CS, ABC, GA, SA
+- **2 Discrete Algorithms:** ACO (MMAS), A*
+- **4 Benchmark Problems:** Sphere, Ackley, Rastrigin (continuous), TSP (discrete)
+- **Automated Performance Analysis:** 30 runs per configuration
+- **Sensitivity Analysis:** Parameter tuning for swarm algorithms
+- **Rich Visualizations:** 50+ types of charts and plots
+- **YAML Configuration:** Flexible parameter management
+- **Modular Architecture:** Easy to extend with new algorithms/problems
 
 ---
 
@@ -79,7 +79,6 @@ This project implements and compares **8 optimization algorithms** across **4 be
 ```bash
 # Clone repository
 git clone <repository-url>
-cd lab1
 
 # Install dependencies
 pip install -r requirements.txt
