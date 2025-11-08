@@ -1,4 +1,4 @@
-# AI Fundamental Lab 1 - Optimization Algorithms
+# AI Fundamental Lab 1 - Swarm Algorithms
 
 > **Comprehensive comparison and analysis of swarm intelligence and classical optimization algorithms on continuous and discrete problems**
 
