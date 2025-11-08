@@ -1,0 +1,29 @@
+# Artificial Bee Colony Sensitivity Analysis Configuration
+
+algorithm:
+  name: ABC
+  colony_size: 50
+  max_iterations: 100
+  random_seed: 42
+
+problems:
+  sphere:
+    dimensions: 10
+  ackley:
+    dimensions: 10
+  rastrigin:
+    dimensions: 10
+
+# Number of independent runs for statistical significance
+n_runs: 10
+
+# Parameters to test
+# limit is calculated as: colony_size * dimensions * limit_multiplier
+sensitivity:
+  limit_multiplier: [0.5, 1.0, 1.5, 2.0, 3.0]
+  colony_size: [30, 40, 50, 60, 80]
+
+# Output directory for results
+output_directory: results/continuous/parameter_sensitivity
+
+

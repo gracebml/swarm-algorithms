@@ -1,0 +1,9 @@
+problem_file: data/tsp_10.csv
+aco_config_file: configs/algorithms/aco_config.yaml
+astar_config_file: configs/algorithms/astar_config.yaml
+num_runs: 10
+scalability_problems:
+- data/tsp_10.csv
+- data/tsp_15.csv
+- data/tsp_20.csv
+comparison_output_file: results/discrete/performance/tsp_comparison_metrics.csv

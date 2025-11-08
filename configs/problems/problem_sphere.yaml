@@ -1,0 +1,13 @@
+# Sphere Function Configuration
+
+sphere:
+  dimensions: 10
+  bounds: [-100, 100]
+
+# Problem characteristics:
+# - Unimodal, convex, continuous
+# - Global optimum: f(0,...,0) = 0
+# - Recommended bounds: [-100, 100]
+# - Simple benchmark for testing convergence
+
+description: "Sphere function - Simple unimodal optimization benchmark"

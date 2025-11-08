@@ -1,0 +1,11 @@
+# Artificial Bee Colony Configuration
+
+algorithm_name: ABC
+
+parameters:
+  colony_size: 50         # Total number of bees
+  max_iterations: 100     # Maximum iterations
+  limit: 20               # Abandonment limit for food sources
+
+description: "Artificial Bee Colony - Swarm intelligence based on honey bee foraging behavior"
+

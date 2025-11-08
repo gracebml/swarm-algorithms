@@ -1,0 +1,23 @@
+sensitivity:
+  n_ants:
+  - 0.8
+  - 1.0
+  - 1.2
+  max_iter:
+  - 50
+  - 100
+  alpha:
+  - 1.0
+  - 1.5
+  - 2.0
+  beta:
+  - 1.0
+  - 1.5
+  - 2.0
+  rho:
+  - 0.3
+  - 0.4
+  - 0.5
+output_directory: results/discrete/parameter_sensitivity/aco
+problem_file: data/tsp_15.csv
+num_runs: 3

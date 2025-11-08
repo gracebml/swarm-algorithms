@@ -1,0 +1,14 @@
+# Genetic Algorithm Configuration
+
+algorithm_name: GA
+
+parameters:
+  population_size: 50
+  generations: 100
+  crossover_rate: 0.8
+  mutation_rate: 0.1
+  elite_size: 2
+  tournament_size: 3
+
+description: "Genetic Algorithm - Evolution-based optimization using selection, crossover, and mutation"
+

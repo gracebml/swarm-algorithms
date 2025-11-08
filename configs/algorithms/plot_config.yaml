@@ -1,0 +1,7 @@
+# Plot Configuration for Discrete Problem Visualization
+
+input_file: results/discrete/convergence/tsp_aco_convergence.csv
+output_dir: visualizations/discrete/convergence
+plot_dpi: 300
+figure_size: [10, 6]
+

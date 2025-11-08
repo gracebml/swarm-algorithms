@@ -1,0 +1,23 @@
+base_n_ants: 20
+num_runs_per_combo: 3
+param_grid:
+  alpha:
+  - 1.0
+  - 1.5
+  - 2.0
+  beta:
+  - 1.0
+  - 1.5
+  - 2.0
+  max_iter:
+  - 50
+  - 100
+  n_ants:
+  - 16
+  - 20
+  - 24
+  rho:
+  - 0.3
+  - 0.4
+  - 0.5
+total_combinations: 162

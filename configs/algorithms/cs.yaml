@@ -1,0 +1,13 @@
+# Cuckoo Search Configuration
+
+algorithm_name: CS
+
+parameters:
+  n_nests: 50       # Number of nests (population size)
+  max_iter: 100     # Maximum iterations
+  pa: 0.25          # Probability of discovering alien eggs
+  beta: 1.5         # Levy flight parameter
+  alpha: 0.01       # Step size scaling factor
+
+description: "Cuckoo Search - Inspired by brood parasitism of cuckoo birds"
+

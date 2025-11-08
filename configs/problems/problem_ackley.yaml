@@ -1,0 +1,13 @@
+# Ackley Function Configuration
+
+ackley:
+  dimensions: 10
+  bounds: [-32.768, 32.768]
+  
+# Problem characteristics:
+# - Highly multimodal with many local optima
+# - Global optimum: f(0,...,0) = 0
+# - Recommended bounds: [-32.768, 32.768]
+
+description: "Ackley function - Complex multimodal optimization benchmark"
+

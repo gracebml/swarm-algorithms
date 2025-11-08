@@ -1,0 +1,11 @@
+problem:
+  dim: 3
+  min_x: -10
+  max_x: 10
+
+algorithm:
+  max_iter: 1000
+  initial_temp: 100
+  cooling_rate: 0.95
+  neighbor_scale: 0.01
+  seed: 42

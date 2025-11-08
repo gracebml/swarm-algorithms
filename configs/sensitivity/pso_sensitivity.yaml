@@ -1,0 +1,27 @@
+# Particle Swarm Optimization Sensitivity Analysis Configuration
+
+algorithm:
+  name: PSO
+  N: 50
+  max_iter: 100
+  random_seed: 42
+
+problems:
+  sphere:
+    dimensions: 10
+  ackley:
+    dimensions: 10
+  rastrigin:
+    dimensions: 10
+
+# Number of independent runs for statistical significance
+n_runs: 30
+
+# Parameters to test
+sensitivity:
+  w: [0.4, 0.6, 0.8, 0.9, 0.95]
+  c1: [0.5, 1.0, 1.49445, 2.0, 2.5]
+  c2: [0.5, 1.0, 1.49445, 2.0, 2.5]
+
+# Output directory for results
+output_directory: results/continuous/parameter_sensitivity

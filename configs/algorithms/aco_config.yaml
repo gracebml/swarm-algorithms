@@ -1,0 +1,9 @@
+problem_file: data/tsp_10.csv
+output_file: results/discrete/convergence/tsp_aco_convergence.csv
+n_ants: -1
+max_iter: 100
+alpha: 1.0
+beta: 2.0
+rho: 0.1
+u_gb: 1
+stagnation: 50

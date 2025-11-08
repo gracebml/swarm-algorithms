@@ -1,0 +1,4 @@
+problem_file: data/tsp_10.csv
+time_limit: 3600.0
+start_city: 0
+output_file: results/discrete/astar_result.csv

@@ -1,0 +1,8 @@
+# TSP Problem Configuration - 15 cities
+
+problem:
+  name: TSP-15
+  type: discrete
+  file: data/tsp_15.csv
+  description: "Traveling Salesman Problem with 15 cities"
+

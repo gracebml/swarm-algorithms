@@ -1,0 +1,4387 @@
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - &id001 !!python/object/apply:numpy.dtype
+      args:
+      - f8
+      - false
+      - true
+      state: !!python/tuple
+      - 3
+      - <
+      - null
+      - null
+      - null
+      - -1
+      - -1
+      - 0
+    - !!binary |
+      3+to2AsqdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      5CuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TeyldkIFdEA=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LOYlpkFXAkA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      wa/B4Ik7dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      seqiQ2gtdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    x+z8mwsUdEA=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BUdjA0kcB0A=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      5AS9m/NTdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      k/ETJJ0tdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    H7bLz5VxdEA=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ytpuUhDfIUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      5CuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5CuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PiwMcL0gKj0=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +FZevk7oc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LJjO/FHd/T8=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      518sbulrdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      GoG57Qy5dEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    oVl9rrdSdEA=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    m9Wm6QjhF0A=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      p0CP2Ie6dUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      CmboRVcEdUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    R3HPqHjwdEA=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    INmfDS21JUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      5AS9m/NTdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      2C3pGa9ydUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      ZmW5GiwLdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    tjJ1RZrwdEA=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    10GCS5ejHUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      H8HixDFidEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TAitttsCdEA=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 50
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zMyP/WvaEEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    i1YhIBgNdEA=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 50
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    l262muB4BEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      k/ETJJ0tdUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yG29K6pGdEA=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 50
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    nUISGchpJEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      seqiQ2gtdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      K+K4FP6bdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      K+K4FP6bdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rY+xeSF3dEA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    z4V8E7AQCkA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      J6KPPdnydEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      7fesfn87dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      d2AJvRfmdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    2ahsKNAGdUA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MbNg/EnXJUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      aqXi8VC0dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      yG/9aqK8dUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      u7jTa2UxdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    T+87mB02dUA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ObG+UmH9GkA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      5CuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      wa/B4Ik7dEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    La1MFfn1c0A=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    qMK8GVyYCEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      oGV+nrM5dUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      u7jTa2UxdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    K5lt94vUdEA=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    aTE7UCgnIUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      7fesfn87dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    kFqNV+kSdEA=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CVCH0wzPBkA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      H8HixDFidEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      wa/B4Ik7dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      oSMm+BQJdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    K9yYNPCMdEA=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    h86HnilMFkA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      5AS9m/NTdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      H8HixDFidEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    o1C7WsctdEA=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Kin82WwUEEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      W31k6euidEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      ATEmDeR6dEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    wEi0jFVQdEA=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jaHgTCR/FkA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    N8HZZyTwc0A=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    l262muB4BEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      K+K4FP6bdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      W31k6euidEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    eC7lOV5bdEA=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8Ldl1F0VGEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      wa/B4Ik7dEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    La1MFfn1c0A=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xsK8GVyYCEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 100
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 100
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      k/ETJJ0tdUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yG29K6pGdEA=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 100
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    nUISGchpJEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    N8HZZyTwc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    l262muB4BEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +FZevk7oc0A=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LJjO/FHd/T8=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      W31k6euidEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      p0CP2Ie6dUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      XjJ1JQmgdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    daXN935UdUA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    IEKM/tyBH0A=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      518sbulrdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      baxT7vdSdUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vRIGBAaGdEA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    JhqyS1q4I0A=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      umjB19YFdUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      ls0Sy6WXdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ZsvMcOR6dEA=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LDCJhhW1H0A=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      bIXVkP6tdUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      u7jTa2UxdUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    r3i+jjHmdEA=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    m1FCvv0fKUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3UrhR0P0dUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      ls0Sy6WXdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yBaC613KdEA=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    S0R/KbAsLEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      seqiQ2gtdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    fWtCNkPxc0A=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    J51oFq5DBUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      5AS9m/NTdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    OXSgUxz+c0A=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bO0Mc29ZDkA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      seqiQ2gtdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    fWtCNkPxc0A=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 16
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    J51oFq5DBUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +FZevk7oc0A=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LJjO/FHd/T8=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      H8HixDFidEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TAitttsCdEA=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    y8yP/WvaEEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      K+K4FP6bdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      7fesfn87dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    qOxEedhVdEA=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    FthTZCIOCUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      K+K4FP6bdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    EOkV4D0rdEA=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    IgE/u0n0FEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      5AS9m/NTdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    OXSgUxz+c0A=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    be0Mc29ZDkA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 50
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    N8HZZyTwc0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 50
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    l262muB4BEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      W31k6euidEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YJwtGG8YdEA=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 50
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    T6PqWzt7GEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      seqiQ2gtdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    fWtCNkPxc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    J51oFq5DBUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      ls0Sy6WXdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      LL2MKLO5dUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      W31k6euidEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    X61W9Bb8dEA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    gFtPZ+rEIEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      7fesfn87dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      u0Hsw5mGdUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      seqiQ2gtdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yLa+LCuldEA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5G3RoEPwI0A=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      ATEmDeR6dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      K+K4FP6bdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      PsRvawfQdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zkcaL6P3dEA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jhYg0XAzI0A=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      seqiQ2gtdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      s5o3AUpmdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    GDsk/KB3dEA=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    duJVamGXJUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      u7jTa2UxdUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      5AS9m/NTdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    1Y2oSsyPdEA=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    z+DsO5viHEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      7fesfn87dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      p0CP2Ie6dUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      umjB19YFdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xTX/ZJ/+dEA=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    K4gwtJSOI0A=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      LAgiIpjtdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UXUXK1MxdEA=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yb9A0wykIEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      qHEVruRhdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    e5hoBMICdEA=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ygTFOFbREEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    N8HZZyTwc0A=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    l262muB4BEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 100
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 100
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    N8HZZyTwc0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 100
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    l262muB4BEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      /UQS9orKdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    l4lnHKQldEA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Ly5uCpomHUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      813BlrmrdUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PCeUX6eNdEA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8uGuBcCrKUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      yUZr9ympdUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      6DhXWqzsdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    h45xAK3NdEA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9WJbBaUjKEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      W31k6euidEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      K+K4FP6bdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    eC7lOV5bdEA=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8Ldl1F0VGEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      e31fhcU7dkA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      ZbMBr22bdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    QXSm9ss4dUA=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    fNM4OzlTMEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    N8HZZyTwc0A=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    l262muB4BEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      seqiQ2gtdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      7fesfn87dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    1QT2JQgUdEA=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Nwa5kM4aB0A=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      wa/B4Ik7dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    La1MFfn1c0A=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 20
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    x8K8GVyYCEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      K+K4FP6bdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +71J0R8WdEA=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    epHyFC+qF0A=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      K+K4FP6bdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      K+K4FP6bdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    E1AB8w5ZdEA=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    epHyFC+qF0A=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      5SuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5CuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAMD0=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +FZevk7oc0A=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LJjO/FHd/T8=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      wa/B4Ik7dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    La1MFfn1c0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 50
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    x8K8GVyYCEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 50
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +FZevk7oc0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 50
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LJjO/FHd/T8=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      wa/B4Ik7dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    La1MFfn1c0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    x8K8GVyYCEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      /UQS9orKdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      fQTkR++JdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      UM2isQ3QdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7lyI+te2dEA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5ulJtcTV/z8=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      X0JH8YuhdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      yXHgeMUHdUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      bBUJtj42dkA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MUMQYIVKdUA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    OHKcZXd6JUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      dofe0FRldUA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      seqiQ2gtdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      K+K4FP6bdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    cXETYz66dEA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    EDt8vwwkIEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      H8HixDFidEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      ATEmDeR6dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rLQzK8I6dEA=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    fMs8yix7EkA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +FZevk7oc0A=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LJjO/FHd/T8=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      5AS9m/NTdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      mwqG0YmJdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      wUPSEauGdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    a8axfw3MdEA=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 50
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    twBab0O4IEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      wa/B4Ik7dEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    gUKUzewSdEA=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    dwBuD5fQBkA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      H8HixDFidEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      u7jTa2UxdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    lIxt9Zd3dEA=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 50
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    IMP7vp/4IUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 100
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 100
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 1.5
+    max_iter: 100
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 1.5
+    beta: 2.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      ATEmDeR6dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      34/wIIANdkA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      /UQS9orKdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    n6wNDKUbdUA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    cucQJ5/CJUA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      J6KPPdnydEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    eakpp09ddEA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    uyIa40pvGkA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      7fesfn87dEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      CmboRVcEdUA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8m3/3qB4dEA=
+  params:
+    alpha: 2.0
+    beta: 1.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    nbg/TBbDGEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      I63224oSdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +FZevk7oc0A=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LJjO/FHd/T8=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      3+to2AsqdEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    N8HZZyTwc0A=
+  params:
+    alpha: 2.0
+    beta: 1.5
+    max_iter: 100
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    l262muB4BEA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.3
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4yuSrzDTc0A=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.4
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AAAAAAAAAAA=
+- all_fitnesses:
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      H8HixDFidEA=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      4yuSrzDTc0A=
+  - !!python/object/apply:numpy._core.multiarray.scalar
+    - *id001
+    - !!binary |
+      7fesfn87dEA=
+  avg_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    paFgpqAldEA=
+  params:
+    alpha: 2.0
+    beta: 2.0
+    max_iter: 100
+    n_ants: 24
+    rho: 0.5
+  std_fitness: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    x7GbnocyDkA=

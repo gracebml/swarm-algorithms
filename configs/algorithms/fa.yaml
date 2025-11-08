@@ -1,0 +1,13 @@
+# Firefly Algorithm Configuration
+
+algorithm_name: FA
+
+parameters:
+  population_size: 50
+  generations: 100
+  alpha: 0.5        # Randomization parameter
+  beta0: 1.0        # Attractiveness at r=0
+  gamma: 1.0        # Light absorption coefficient
+
+description: "Firefly Algorithm - Swarm intelligence based on firefly flashing behavior"
+

@@ -1,0 +1,29 @@
+# Cuckoo Search Sensitivity Analysis Configuration
+
+algorithm:
+  name: CS
+  n_nests: 50
+  max_iter: 100
+  random_seed: 42
+
+problems:
+  sphere:
+    dimensions: 10
+  ackley:
+    dimensions: 10
+  rastrigin:
+    dimensions: 10
+
+# Number of independent runs for statistical significance
+n_runs: 10
+
+# Parameters to test
+sensitivity:
+  pa: [0.1, 0.2, 0.25, 0.3, 0.4]
+  beta: [1.0, 1.2, 1.5, 1.8, 2.0]
+  alpha: [0.001, 0.01, 0.05, 0.1, 0.2]
+
+# Output directory for results
+output_directory: results/continuous/parameter_sensitivity
+
+

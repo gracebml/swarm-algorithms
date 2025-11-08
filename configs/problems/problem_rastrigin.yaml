@@ -1,0 +1,15 @@
+# Rastrigin Function Configuration
+
+rastrigin:
+  dimensions: 10
+  bounds: [-5.12, 5.12]
+  A: 10  # Amplitude parameter
+  
+# Problem characteristics:
+# - Highly multimodal with many local optima
+# - Global optimum: f(0,...,0) = 0
+# - Recommended bounds: [-5.12, 5.12]
+# - Regular pattern of local minima
+
+description: "Rastrigin function - Highly multimodal optimization benchmark with regular pattern"
+
