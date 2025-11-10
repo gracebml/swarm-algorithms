@@ -243,6 +243,7 @@ def run_discrete_performance_comparison():
             output_dir='visualizations/discrete/performance'
         )
         
+        
     except Exception as e:
         print(f"\n Error: {e}")
         import traceback
