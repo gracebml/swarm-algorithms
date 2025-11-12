@@ -236,11 +236,12 @@ def custom_mode():
         run_paradigm_comparison()
     elif choice == '6':
         run_swarm_deep_dive()
+    elif choice == '7':
+        landscape_visualization()
     else:
         print("\n Invalid choice!")
     
     input("\nPress Enter to return to main menu...")
-
 
 def run_sensitivity_analysis():
     """Run parameter sensitivity analysis for swarm algorithms."""

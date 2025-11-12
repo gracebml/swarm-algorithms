@@ -19,9 +19,9 @@ n_runs: 10
 
 # Parameters to test
 sensitivity:
-  pa: [0.1, 0.2, 0.25, 0.3, 0.4]
-  beta: [1.0, 1.2, 1.5, 1.8, 2.0]
-  alpha: [0.001, 0.01, 0.05, 0.1, 0.2]
+  pa: [0.1, 0.2, 0.3, 0.4]
+  beta: [1.0, 1.2, 1.5, 1.8]
+  alpha: [0.001, 0.01, 0.05, 0.1]
 
 # Output directory for results
 output_directory: results/continuous/parameter_sensitivity

@@ -12,7 +12,7 @@ from optimizers.continuous.fa_optimizer import FireflyAlgorithm
 from optimizers.continuous.pso_optimizer import pso
 from optimizers.continuous.sa_optimizer import SimulatedAnnealing
 from optimizers.continuous.cs_optimizer import CuckooSearch
-# from optimizers.abc_optimizter import ArtificialBeeColony  # ABC uses different interface
+from optimizers.continuous.abc_optimizter import ArtificialBeeColony
 
 # Import problem functions
 from problems.continuous.sphere_function import SphereFunction
@@ -213,6 +213,47 @@ def run_single_experiment_cs(problem, params, n_runs=30, max_iter=100, seed_base
     return results
 
 
+def run_single_experiment_abc(problem, params, n_runs=30, max_iterations=100, seed_base=42):
+    """Run ABC sensitivity experiment."""
+    results = {
+        'best_fitness': [],
+        'mean_fitness': [],
+        'std_fitness': [],
+        'convergence_curves': []
+    }
+    
+    # Calculate limit from limit_multiplier if provided
+    colony_size = params.get('colony_size', 50)
+    dimensions = problem.dimensions
+    
+    if 'limit_multiplier' in params:
+        limit = int(colony_size * dimensions * params['limit_multiplier'])
+    else:
+        limit = params.get('limit', None)  # Will use default if None
+    
+    for run in range(n_runs):
+        # Set random seed for reproducibility
+        np.random.seed(seed_base + run)
+        
+        abc = ArtificialBeeColony(
+            objective_function=problem,
+            colony_size=colony_size,
+            max_iterations=max_iterations,
+            limit=limit,
+            verbose=False
+        )
+        
+        abc.initialize_population()
+        result = abc.optimize()
+        
+        results['best_fitness'].append(result['best_value'])
+        results['mean_fitness'].append(result['history']['mean_value'][-1])
+        results['std_fitness'].append(np.std(result['history']['mean_value']))
+        results['convergence_curves'].append(result['history']['best_value'])
+    
+    return results
+
+
 def sensitivity_analysis_single_param(algorithm_name, problem_name, param_name, param_values, 
                                      base_params, config, output_dir='results/continuous/parameter_sensitivity'):
     """
@@ -279,6 +320,13 @@ def sensitivity_analysis_single_param(algorithm_name, problem_name, param_name, 
                 problem, params,
                 n_runs=config['n_runs'],
                 max_iter=config.get('max_iter', 100),
+                seed_base=config.get('seed', 42)
+            )
+        elif algorithm_name.upper() == 'ABC':
+            results = run_single_experiment_abc(
+                problem, params,
+                n_runs=config['n_runs'],
+                max_iterations=config.get('max_iterations', 100),
                 seed_base=config.get('seed', 42)
             )
         else:
@@ -415,7 +463,7 @@ def run_all_sensitivity_analyses():
         config_dir / 'pso_sensitivity.yaml',
         config_dir / 'sa_sensitivity.yaml',
         config_dir / 'cs_sensitivity.yaml',
-        # config_dir / 'abc_sensitivity.yaml',  # ABC has different interface, skip for now
+        config_dir / 'abc_sensitivity.yaml',
     ]
     
     for config_file in config_files:
