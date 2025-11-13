@@ -1,5 +1,4 @@
 import numpy as np
-from typing import List, Tuple, Optional
 import csv
 import os
 

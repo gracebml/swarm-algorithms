@@ -1,6 +1,4 @@
 """
-Visualize comparative performance of optimization algorithms.
-
 This module creates visualizations comparing algorithms across multiple metrics:
 - Convergence speed
 - Computational complexity (time)

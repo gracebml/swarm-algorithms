@@ -1,4 +1,5 @@
 """
+---------------------MAIN FILE ---------------------
 Comparing Swarm-based (PSO, FA, CS, ABC) vs Classical (GA, SA) algorithms 
 - Continuous problems: Sphere, Ackley, Rastrigin
 - Discrete problems: TSP (ACO, A*)

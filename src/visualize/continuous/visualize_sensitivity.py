@@ -3,14 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import json
-import sys
 from pathlib import Path
-
-# # Setup path to import from src directory
-# _current_file = Path(__file__).resolve()
-# _src_dir = _current_file.parent.parent
-# if str(_src_dir) not in sys.path:
-#     sys.path.insert(0, str(_src_dir))
 
 # Configure matplotlib
 sns.set_style("whitegrid")
@@ -76,7 +69,7 @@ def plot_parameter_sensitivity(func_name, param_name, algorithm_name='cs',
     # Save figure
     output_file = output_path / f'{alg_lower}_{func_name}_{param_name}_sensitivity.png'
     plt.savefig(output_file, dpi=300, bbox_inches='tight')
-    print(f"  ✓ Saved: {output_file.name}")
+    print(f"    Saved: {output_file.name}")
     plt.close()
 
 
@@ -132,7 +125,7 @@ def plot_convergence_comparison(func_name, param_name, algorithm_name='cs',
     # Save figure
     output_file = output_path / f'{alg_lower}_{func_name}_{param_name}_convergence.png'
     plt.savefig(output_file, dpi=300, bbox_inches='tight')
-    print(f"Saved: {output_file.name}")
+    print(f"    Saved: {output_file.name}")
     plt.close()
 
 

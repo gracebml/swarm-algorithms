@@ -1,6 +1,4 @@
 """
-Visualize overview performance of all optimization algorithms.
-
 This module creates visualizations comparing ALL algorithms across multiple metrics:
 - Convergence speed
 - Computational complexity (time)
@@ -407,46 +405,3 @@ def visualize_all_comparative(problems=['sphere', 'ackley', 'rastrigin'],
 
 Visualizations saved to: {output_dir}
 """)
-
-
-# def main():
-#     """Main function for command-line usage."""
-#     import argparse
-    
-#     parser = argparse.ArgumentParser(
-#         description='Visualize comparative performance of optimization algorithms'
-#     )
-    
-#     parser.add_argument(
-#         '--problems',
-#         nargs='+',
-#         default=['sphere', 'ackley', 'rastrigin'],
-#         help='List of problems to visualize'
-#     )
-    
-#     parser.add_argument(
-#         '--results-dir',
-#         type=str,
-#         default='results/performance',
-#         help='Directory containing performance results'
-#     )
-    
-#     parser.add_argument(
-#         '--output-dir',
-#         type=str,
-#         default='visualizations/comparative',
-#         help='Directory to save visualizations'
-#     )
-    
-#     args = parser.parse_args()
-    
-#     visualize_all_comparative(
-#         problems=args.problems,
-#         results_dir=args.results_dir,
-#         output_dir=args.output_dir
-#     )
-
-
-# if __name__ == '__main__':
-#     main()
-

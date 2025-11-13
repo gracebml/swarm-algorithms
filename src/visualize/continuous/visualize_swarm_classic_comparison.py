@@ -1,6 +1,4 @@
 """
-Visualize comparison between Swarm-based and Classical algorithms.
-
 This module compares:
 - Swarm-based: PSO, FA, CS, ABC (population-based, social learning)
 - Classical: GA, SA (evolution-based, local search)

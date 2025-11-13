@@ -1,6 +1,5 @@
 """
 3D Landscape Visualization for Optimization Functions
-Visualizes the topology of optimization functions in 3D
 """
 
 import numpy as np

@@ -3,10 +3,9 @@ import numpy as np
 class RastriginFunction:
     def __init__(self, dimensions=2, A=10):
         """
-        Initialize Rastrigin function params
         Args: 
             dimensions: Number of dimensions
-            A: Rastrigin function parameter (typically 10)
+            A: Rastrigin function parameter
         """
         self.dimensions = dimensions
         self.A = A

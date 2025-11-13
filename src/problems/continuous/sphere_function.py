@@ -2,10 +2,6 @@ import numpy as np
 
 class SphereFunction:
     """
-    Sphere function for optimization testing.
-    
-    The Sphere function is a simple convex function with a single global minimum.
-    
     Formula:
     f(x) = sum(x_i^2)
     """

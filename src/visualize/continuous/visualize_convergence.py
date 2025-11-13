@@ -1,6 +1,4 @@
 """
-Visualize convergence ability of optimization algorithms.
-
 This module creates visualizations showing how algorithms converge
 over iterations, comparing their convergence behavior.
 
@@ -118,87 +116,6 @@ def plot_convergence_curves(data, problem_name, output_dir='visualizations/conti
     plt.savefig(output_file, dpi=300, bbox_inches='tight')
     print(f" Saved: {output_file}")
     plt.close()
-
-
-# def plot_convergence_rate(data, problem_name, output_dir='visualizations/convergence'):
-#     """
-#     Plot convergence rate (improvement per iteration).
-    
-#     Args:
-#         data: Dictionary with detailed results
-#         problem_name: Name of problem
-#         output_dir: Directory to save visualization
-#     """
-#     output_path = Path(output_dir)
-#     output_path.mkdir(parents=True, exist_ok=True)
-    
-#     fig, ax = plt.subplots(figsize=(14, 8))
-    
-#     colors = {
-#         'GA': '#2E86AB',
-#         'FA': '#A23B72',
-#         'PSO': '#F18F01',
-#         'SA': '#C73E1D',
-#         'CS': '#6A994E'
-#     }
-    
-#     for alg_name, alg_data in data.items():
-#         convergence_curves = alg_data['convergence_curves']
-        
-#         # Compute average convergence rate
-#         rates = []
-#         for curve in convergence_curves:
-#             if len(curve) > 1:
-#                 # Compute improvement rate
-#                 improvements = np.diff(curve)
-#                 rates.append(improvements)
-        
-#         if rates:
-#             # Pad to same length
-#             max_len = max(len(r) for r in rates)
-#             padded_rates = []
-#             for rate in rates:
-#                 if len(rate) < max_len:
-#                     padded = np.pad(rate, (0, max_len - len(rate)), 
-#                                    constant_values=np.nan)
-#                 else:
-#                     padded = rate
-#                 padded_rates.append(padded)
-            
-#             rates_array = np.array(padded_rates)
-#             mean_rate = np.nanmean(rates_array, axis=0)
-            
-#             # Apply smoothing with moving average to reduce noise
-#             window_size = 5
-#             mean_rate_smooth = np.convolve(np.abs(mean_rate), 
-#                                           np.ones(window_size)/window_size, 
-#                                           mode='same')
-            
-#             # Add small epsilon to avoid log(0)
-#             epsilon = 1e-10
-#             mean_rate_smooth = np.maximum(mean_rate_smooth, epsilon)
-            
-#             iterations = np.arange(len(mean_rate_smooth))
-#             color = colors.get(alg_name, 'gray')
-#             ax.plot(iterations, mean_rate_smooth, linewidth=2.5,
-#                    label=alg_name, color=color, alpha=0.9)
-    
-#     ax.set_xlabel('Iteration', fontsize=14, fontweight='bold')
-#     ax.set_ylabel('Improvement Rate (absolute)', fontsize=14, fontweight='bold')
-#     ax.set_title(f'Convergence Rate Comparison - {problem_name.title()} Function',
-#                 fontsize=16, fontweight='bold')
-#     ax.set_yscale('log')
-#     ax.grid(True, alpha=0.3)
-#     ax.legend(loc='upper right', fontsize=12, framealpha=0.9)
-    
-#     plt.tight_layout()
-    
-#     # Save figure
-#     output_file = output_path / f'{problem_name.lower()}_convergence_rate.png'
-#     plt.savefig(output_file, dpi=300, bbox_inches='tight')
-#     print(f" Saved: {output_file}")
-#     plt.close()
-
 
 def plot_convergence_comparison_grid(problems=['sphere', 'ackley', 'rastrigin'],
                                      results_dir='results/continuous/performance',
