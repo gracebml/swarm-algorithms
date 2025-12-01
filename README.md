@@ -402,11 +402,10 @@ GA        | 0.0001234    | 0.678s   | 0.75        | 0.82
 SA        | 0.0002345    | 0.789s   | 0.72        | 0.78
 ```
 
----
-
 ## Troubleshooting
 
 ### Common Issues
+
 #### "No results found"
 **Solution:** Run performance computation first
 ```bash
