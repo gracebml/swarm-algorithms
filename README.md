@@ -390,10 +390,8 @@ Over 50 types of visualizations generated automatically:
 | ACO Sensitivity | 10-15min | 8 files |
 | **Complete Suite** | **~20 minutes** | **200+ files** |
 
-```
-
 ### Performance Comparison
-```
+
 Algorithm | Best Fitness | Mean Time | Convergence | Robustness
 ----------|--------------|-----------|-------------|------------
 PSO       | 0.0000123    | 0.234s   | 0.89        | 0.92
