@@ -399,17 +399,7 @@ FA        | 0.0000456    | 0.345s   | 0.85        | 0.88
 CS        | 0.0000234    | 0.456s   | 0.87        | 0.90
 ABC       | 0.0000567    | 0.567s   | 0.83        | 0.86
 GA        | 0.0001234    | 0.678s   | 0.75        | 0.82
-SA        | 0.0002345    | 0.789s   | 0.72        | 0.78
-
-## Troubleshooting
-
-### Common Issues
-
-#### "No results found"
-**Solution:** Run performance computation first
-```bash
-python main.py > 1 > 2  # Continuous > Performance Computation
-```
+SA        | 0.0002345    | 0.789s   | 0.72        | 
 
 ---
 
